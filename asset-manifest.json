@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/rohit-kumar22/video-player.git/static/css/main.f9d00414.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/rohit-kumar22/video-player.git/static/js/main.54792af7.js",
+    "static/js/453.5c33ba8c.chunk.js": "/git%20remote%20add%20origin%20https://github.com/rohit-kumar22/video-player.git/static/js/453.5c33ba8c.chunk.js",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/rohit-kumar22/video-player.git/index.html",
+    "main.f9d00414.css.map": "/git%20remote%20add%20origin%20https://github.com/rohit-kumar22/video-player.git/static/css/main.f9d00414.css.map",
+    "main.54792af7.js.map": "/git%20remote%20add%20origin%20https://github.com/rohit-kumar22/video-player.git/static/js/main.54792af7.js.map",
+    "453.5c33ba8c.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/rohit-kumar22/video-player.git/static/js/453.5c33ba8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9d00414.css",
+    "static/js/main.54792af7.js"
+  ]
+}
